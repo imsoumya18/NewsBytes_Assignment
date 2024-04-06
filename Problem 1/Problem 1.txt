@@ -1,0 +1,17 @@
+1. Problem Statement
+======================
+Ensuring timely delivery of food orders is critical as customers expect swift service. To enhance service efficiency, we aim to devise an ETA prediction model. This model should estimate the time required for order delivery (ETA) based on factors such as time of day, travel distance, and potentially varying conditions across different geographical regions.
+
+2. Data
+======================
+Included in the provided CSV file is pan-India data detailing order pickup and drop-off locations, along with corresponding timestamps. The columns include R_{lon,lat}, C_{lon,lat}, order_{pickedup,delivered}_time, respectively.
+
+3. Goal
+======================
+This goal comprises two main objectives:
+
+Identify ETA distributions that may correlate with factors such as time of day, travel distance (aerial distance may suffice), and geographical regions.
+Develop a predictive model to estimate ETA given the time of day and expected travel distance for incoming orders.
+Applicants are expected to address at least one of these objectives. They are free to utilize any open-source tool or library in any programming language, although solutions in Python, R, Java, or C++ are preferred for easier evaluation. While conducting the analysis, assumptions may be made to simplify or clarify the problem, but they must be clearly justified.
+
+In addition to the solution, applicants are required to submit a concise report (1 or 2 pages) outlining their approach, assumptions, and any potential improvements with additional time.
