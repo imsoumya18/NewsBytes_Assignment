@@ -1,0 +1,19 @@
+Improved Programming Prowess Problem Statement
+
+Design a Battleship game with a focus on flexibility, modularity, and object-oriented programming principles. The game should be designed to accommodate player-owned ships placed on a 9x9 board. The ships should vary in size and type, including battleships (four units long), cruisers (three units long), destroyers (two units long), and submarines (one unit long).
+
+The design should adhere to the following criteria:
+
+Flexibility and Modifiability: The game should be highly adaptable to accommodate future modifications or enhancements. This includes the ability to add new types of ships, change board sizes, or introduce new gameplay mechanics with minimal impact on existing code.
+
+Object-Oriented Approach: Utilize object-oriented programming principles to design the game. This involves creating classes to represent the various components of the game, such as ships, the game board, and player actions.
+
+Ship Placement: Players should be able to strategically place their ships on the board before the game begins. The placement mechanism should ensure that ships do not overlap and adhere to the rules of the game.
+
+Armada Composition: Players should have the flexibility to compose their armada with any combination of battleships, cruisers, destroyers, and submarines. For example, an armada could consist of one battleship, two cruisers, and two destroyers.
+
+Gameplay Logic: Implement the core gameplay logic, including actions such as attacking enemy ships, tracking hits and misses, and determining when ships are sunk.
+
+User Interface: You would need to implement a user interface to facilitate gameplay interactions. Depending upon your time and skill, you can make a command line game or include a rich graphic representation of the game board and intuitive controls for placing ships and making attacks. The idea is that the game should be playable by the evaluator
+
+Your solution should prioritize readability, maintainability, and extensibility. While you may use any programming language of your choice, we recommend languages that support object-oriented programming paradigms such as Java, Python, or C++. Ensure that in case of dependencies/installations you also provide a set of instructions within readme file. Automation of deployment dependencies is a plus.
