@@ -15,8 +15,8 @@ This repo includes both the problems in the assessment. The dependencies are in 
 
 ## [Problem 2](Problem%202)
 
-- Problem Statement: [Problem 1.txt](Problem%202/Problem%202.txt)
-- This Battleship game is built in `Battleship_Game.py` file. Just run `python Battleship_Game.py` in CMD and follow the instructions to play the game.
+- Problem Statement: [Problem 2.txt](Problem%202/Problem%202.txt)
+- This Battleship game is built in [Battleship_Game.py](Problem%202/Battleship_Game.py) file. Just run `python Battleship_Game.py` in CMD and follow the instructions to play the game.
 
 Any type of feedback is appreciated: soumyadeep184@gmail.com
 
