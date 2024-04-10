@@ -5,7 +5,6 @@
 This repo includes both the problems in the assessment. The dependencies are in the [requirements.txt](requirements.txt) file.
 
 ## [Problem 1](Problem%201)
-**I couldn't use all 237374 rows due to my device's capacity. But, I have done the whole program, using 1L rows.**
 
 - Problem Statement: [Problem 1.txt](Problem%201/Problem%201.txt)
 - In this ETA Prediction problem, there are 3 stages.
